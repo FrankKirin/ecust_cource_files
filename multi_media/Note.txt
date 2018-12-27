@@ -1,0 +1,12 @@
+1.OpenStack is a massively scalable open source cloud operating system that is a global 
+collaboration of developers and cloud computing technologists producing the ubiquitous open source cloud
+computing platform for public and private clouds.
+
+2.Cloud computing is relatively a new concept for which the resources are dynamically extended, virtualized as
+well as provided as a service on the Internet, it also allow providers to give users access to a virtually unlimited
+number of resources
+
+3.OpenStack mainly consists of three software projects such as OpenStack Compute, OpenStack Object
+Storage and OpenStack Image Service.
+
+4.

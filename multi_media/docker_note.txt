@@ -1,0 +1,8 @@
+1.Rather than create new vertical
+silos to manage containers in their data centers, IT organizations nd value in OpenStack
+providing a cross-platform API to manage virtual machines, containers and bare metal.
+
+
+
+
+2.
