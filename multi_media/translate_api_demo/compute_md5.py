@@ -20,4 +20,3 @@ def generate_md5():
 if __name__ == '__main__':
 	code = generate_md5()
 	print(code)
-
